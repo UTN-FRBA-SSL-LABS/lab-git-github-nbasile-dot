@@ -19,7 +19,7 @@ int restar(const int a, const int b)
 int multiplicar(const int a, const int b)
 {
     return a * b;
-}
+} 
 
 /* ── esPar ────────────────────────────────────────────────────────────────── */
 
